@@ -71,3 +71,17 @@ The final tuned Logistic Regression model is saved using Joblib and used to pred
 ┣ 📜 requirements.txt
 ┣ 📜 README.md
 ┃ ┗ customer_loyalty_model.pkl
+
+---
+
+## 👤 Author
+
+**Shaik Adil Altaf**
+BCA Student | Python Learner | AI & Data Science Enthusiast
+
+---
+## Contact
+📧 Email: shaikadil2600@gmail.com
+
+---
+
